@@ -1,21 +1,21 @@
 {
   "studentsData": [
     {
-      "name": "",
-      "subject": "",
-      "marks": "",
+      "name": "Maxiwenje",
+      "subject": "English",
+      "marks": "80",
       "id": 1
     },
     {
-      "name": "",
-      "subject": "",
-      "marks": "",
+      "name": "Maxy ",
+      "subject": "Math",
+      "marks": "90",
       "id": 2
     },
     {
-      "name": "",
-      "subject": "",
-      "marks": "",
+      "name": "Mr Doggie",
+      "subject": "Doggy",
+      "marks": "10",
       "id": 3
     }
   ]
